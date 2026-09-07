@@ -1,3 +1,4 @@
+
 # Cybersecurity Lab Environment Setup
 ### Setting Up an Isolated Virtual Laboratory for Ethical Hacking and Penetration Testing
 
@@ -90,6 +91,7 @@ The laboratory architecture consists of a Kali Linux virtual machine connected t
 ### Step 2: Download and Install Oracle VirtualBox
 Oracle VirtualBox 7.2 was downloaded and installed as the hypervisor for creating and managing the virtual cybersecurity laboratory. VirtualBox provides the virtualization environment required to run Kali Linux and other virtual machines on the host computer.
 
+
 ### Step 3: Create the NAT Network
 A standalone NAT Network was configured inside Oracle VirtualBox for the cybersecurity laboratory.
 
@@ -100,7 +102,8 @@ A standalone NAT Network was configured inside Oracle VirtualBox for the cyberse
 | **DHCP** | Enabled |
 | **IPv6** | Disabled |
 
-> 🖼️ *[INSERT NAT NETWORK CONFIGURATION IMAGE HERE]*
+
+
 
 A NAT Network was selected because it provides a controlled virtual environment where multiple virtual machines can communicate with one another while also allowing external network access. This makes it suitable for building a multi-machine cybersecurity laboratory.
 
