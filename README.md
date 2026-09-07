@@ -191,7 +191,6 @@ The successful results confirmed that the Kali Linux virtual machine was correct
 ### ❌ Problem 1: Virus Detection During 7-Zip Installation
 During the installation of 7-Zip, Windows Security detected the MSI installer as a potential threat, which prevented the installation from proceeding.
 * **✔️ Solution:** The issue was resolved by using the recommended 64-bit EXE installer instead of the MSI version.
-> 🖼️ *[INSERT SCREENSHOT OF THE SECURITY WARNING HERE]*
 
 ### ❌ Problem 2: Unable to Open Kali Linux in VirtualBox
 Kali Linux could not initially be opened in VirtualBox because the virtual machine files had been extracted using WinZip, which resulted in compatibility issues.
