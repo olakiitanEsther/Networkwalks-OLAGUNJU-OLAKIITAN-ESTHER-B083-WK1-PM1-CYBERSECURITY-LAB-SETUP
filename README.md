@@ -151,7 +151,8 @@ The Kali Linux network settings were verified and configured with a static IPv4 
 | **Default Gateway** | 10.0.0.1 |
 | **DNS Server** | 8.8.8.8 |
 
-> 🖼️ *[INSERT IP CONFIGURATION IMAGE HERE]*
+![Changing to NAT Network](./changing%20from%20NAT%20to%20NAT%20Network(6a).jpeg)
+
 
 Using a static IP address provides a consistent network address for the Kali Linux machine. This makes the laboratory easier to document, troubleshoot, and use during future cybersecurity exercises.
 
