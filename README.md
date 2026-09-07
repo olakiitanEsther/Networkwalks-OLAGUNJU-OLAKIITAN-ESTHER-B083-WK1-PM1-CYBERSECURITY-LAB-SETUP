@@ -104,6 +104,7 @@ A standalone NAT Network was configured inside Oracle VirtualBox for the cyberse
 | **DHCP** | Enabled |
 | **IPv6** | Disabled |
 
+![NAT Network Configuration](./create%20the%20NAT%20Network%20(4).jpeg)
 
 
 
