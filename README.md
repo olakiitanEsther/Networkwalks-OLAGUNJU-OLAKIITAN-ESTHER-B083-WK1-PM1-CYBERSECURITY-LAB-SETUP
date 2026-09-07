@@ -84,6 +84,8 @@ The laboratory architecture consists of a Kali Linux virtual machine connected t
 
 ### Step 1: Download and Install 7-Zip
 7-Zip was downloaded and installed to extract the compressed Kali Linux virtual machine files. The software was required because the downloaded Kali Linux virtual machine package was highly compressed and needed to be extracted before it could be imported and used in Oracle VirtualBox.
+![7-Zip Installation](DOWNLOAD%20%26%20INSTALL%20OF%207-ZIP(2).jpeg)
+
 
 ### Step 2: Download and Install Oracle VirtualBox
 Oracle VirtualBox 7.2 was downloaded and installed as the hypervisor for creating and managing the virtual cybersecurity laboratory. VirtualBox provides the virtualization environment required to run Kali Linux and other virtual machines on the host computer.
