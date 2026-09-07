@@ -134,7 +134,8 @@ Kali Linux version 2026.2 was downloaded from the official Kali Linux website an
 
 The virtual machine was allocated 2048 MB of RAM.
 
-> 🖼️ *[INSERT KALI RAM CONFIGURATION IMAGE HERE]*
+![Importing Kali Linux](./downloaded%20and%20installed%20the%20kali%20and%20open%20on%20virtual%20box%20(5b).jpeg)
+
 
 A shared folder was also configured to allow the transfer of required files between the host operating system and the Kali Linux virtual machine.
 
