@@ -162,7 +162,9 @@ After completing the initial configuration, a VirtualBox snapshot was created. T
 
 * **Snapshot Name:** `Set Up My Kali Linux`
 
-> 🖼️ *[INSERT SNAPSHOT IMAGE HERE]*
+![VirtualBox Snapshot](./Snapshot%20(7).jpeg)
+
+
 
 ---
 
