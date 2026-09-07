@@ -179,7 +179,8 @@ After completing the configuration, several tests were performed to confirm that
 | Test DNS Resolution | `nslookup networkwalks.com` | Domain successfully resolved |
 | Verify Nmap Installation | `nmap --version` | Nmap version 7.99 displayed |
 
-> 🖼️ *[INSERT LAB VERIFICATION SCREENSHOT HERE]*
+![Laboratory Verification](./LAB%20VERIFICATION.jpeg)
+
 
 The successful results confirmed that the Kali Linux virtual machine was correctly connected to the virtual network, could communicate with the gateway, access the internet, resolve domain names, and use Nmap for network-security activities.
 
