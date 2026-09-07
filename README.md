@@ -104,7 +104,8 @@ A standalone NAT Network was configured inside Oracle VirtualBox for the cyberse
 | **DHCP** | Enabled |
 | **IPv6** | Disabled |
 
-![NAT Network Configuration](./create%20the%20NAT%20Network%20(4).jpeg
+![NAT Network Configuration](./create%20the%20NAT%20Network%20(4).jpeg)
+
 
 
 
@@ -126,7 +127,8 @@ Kali Linux version 2026.2 was downloaded from the official Kali Linux website an
 | **Adapter Type** | Intel PRO/1000 MT Desktop (82540EM) |
 | **Promiscuous Mode** | Allow All |
 
-![Importing Kali Linux](./downloaded%20and%20installed%20the%20kali%20and%20oper)
+![Importing Kali Linux](./downloaded%20and%20installed%20the%20kali%20and%20open%20on%20virtual%20box%20(5).jpeg)
+
 
 
 
