@@ -50,7 +50,8 @@ This laboratory and its tools must only be used for educational purposes and aut
 ## 4. Laboratory Architecture
 The laboratory architecture consists of a Kali Linux virtual machine connected to a private NAT Network within Oracle VirtualBox. The network is designed so that additional target machines can be added to the same virtual network in future projects.
 
-> 🖼️ *[INSERT LAB ARCHITECTURE IMAGE HERE]*
+> ![Laboratory Architecture](LAB%20ARCHITECTURE%20(1).jpeg)
+
 
 ### Proposed Network Structure
 - **Kali Linux:** `10.0.0.2`
