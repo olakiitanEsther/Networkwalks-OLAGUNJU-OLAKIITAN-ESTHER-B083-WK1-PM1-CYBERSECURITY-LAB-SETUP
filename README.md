@@ -90,6 +90,7 @@ The laboratory architecture consists of a Kali Linux virtual machine connected t
 
 ### Step 2: Download and Install Oracle VirtualBox
 Oracle VirtualBox 7.2 was downloaded and installed as the hypervisor for creating and managing the virtual cybersecurity laboratory. VirtualBox provides the virtualization environment required to run Kali Linux and other virtual machines on the host computer.
+![VirtualBox Installation](Install Virtual box (3).jpeg)
 
 
 ### Step 3: Create the NAT Network
