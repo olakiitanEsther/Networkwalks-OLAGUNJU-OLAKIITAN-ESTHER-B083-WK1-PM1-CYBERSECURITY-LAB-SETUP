@@ -237,5 +237,5 @@ The laboratory and its security tools must only be used against systems that are
 ## 11. Project Details
 * **Program:** Cybersecurity at Networkwalks (Week 01)
 * **Author:** Olagunju Olakiitan Esther
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** www.linkedin.com/in/olagunju-olakiitan
 
